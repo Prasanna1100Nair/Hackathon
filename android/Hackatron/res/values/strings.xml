@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hackatron</string>
+    <color name="RedAlert">#e53935</color>
+    <string name="hello_world">Hello world!</string>
+        <string name="Alert">Alert</string>
+      <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="ok">OK</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
